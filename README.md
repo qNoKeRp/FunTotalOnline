@@ -1,1 +1,3 @@
 # FuntimePlaceholders
+
+Специально для Funtime
