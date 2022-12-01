@@ -1,0 +1,13 @@
+# FuntimePlaceholder
+# Created by: qNoKeRp
+
+# Частота обновления плейсхолдеров
+timer: 10
+
+# Пример
+servers:
+  anarchy:
+    placeholder: "allonline_anarchy"
+    list: # Список redisbungee серверов (либо список онлайна серверов)
+      - '%redisbungee_Anarchy101%'
+      - '%redisbungee_Anarchy102%'

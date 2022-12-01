@@ -1,0 +1,5 @@
+name: FP
+version: '${project.version}'
+main: placeholder.funtime.fp.FP
+api-version: 1.16
+authors: [ qNoKeRp ]
