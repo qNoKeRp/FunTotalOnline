@@ -1,5 +1,5 @@
 # FunTotalOnline
 ----------------
-Специально для Funtime
+Специально для fUNtIME
 
-- получения онлайна по умолчанию - %fp_allonline_anarchy%
+- получения онлайна по умолчанию для голограм - {slowest}%fto_allonline_anarchy%
