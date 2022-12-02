@@ -1,5 +1,5 @@
-name: FP
-version: '${project.version}'
-main: placeholder.funtime.fp.FP
+name: FunTotalOnline
+version: 'v1.1'
+main: online.total.fun.funtotalonline.Main
 api-version: 1.16
 authors: [ qNoKeRp ]

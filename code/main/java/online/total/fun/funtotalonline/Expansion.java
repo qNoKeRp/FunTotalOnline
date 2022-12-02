@@ -1,16 +1,15 @@
-package placeholder.funtime.fp;
+package online.total.fun.funtotalonline;
 
 import me.clip.placeholderapi.expansion.Cacheable;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.OfflinePlayer;
 import org.jetbrains.annotations.NotNull;
 
-import static placeholder.funtime.fp.FP.identifierValues;
-
+import static online.total.fun.funtotalonline.Main.identifierValues;
 public class Expansion extends PlaceholderExpansion implements Cacheable {
 
     public @NotNull String getIdentifier() {
-        return "FP";
+        return "fto";
     }
 
     public @NotNull String getAuthor() {
@@ -18,7 +17,7 @@ public class Expansion extends PlaceholderExpansion implements Cacheable {
     }
 
     public @NotNull String getVersion() {
-        return "1.0.0";
+        return "1.1";
     }
 
     @Override

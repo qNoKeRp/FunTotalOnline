@@ -1,4 +1,4 @@
-package placeholder.funtime.fp;
+package online.total.fun.funtotalonline;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
@@ -11,7 +11,7 @@ public class ConfigManager {
     private FileConfiguration config;
 
     public ConfigManager(String name) {
-        file = new File(FP.getInstance().getDataFolder(), name);
+        file = new File(Main.getInstance().getDataFolder(), name);
         try {
             if(!file.exists() && !file.createNewFile()) throw new IOException();
         } catch (IOException e) {
